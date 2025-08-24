@@ -28,7 +28,7 @@ A Java-based command-line application for managing hotel room reservations. This
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Ayush-Jack/CodeAlpha_HotelReservationSystem.git>
    cd hotel-reservation-system
    ```
 
